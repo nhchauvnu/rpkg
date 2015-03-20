@@ -4,12 +4,12 @@ of my frequently used packages.
 
 To use the package, run the following commands in R:
 ```
-library('RCurl')
-source('https://raw.githubusercontent.com/nhchauvnu/rpkg/master/inspkg.r')
+library(devtools)
+source_url('https://raw.githubusercontent.com/nhchauvnu/rpkg/master/inspkg.r')
 ```
-If RCurl is not installed, install it by:
+If the 'devtools' package is not installed, install it by:
 ```
-install.packages('RCurl')
+install.packages('devtools')
 
 ```
 ### How to use the script

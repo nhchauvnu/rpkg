@@ -1,5 +1,6 @@
-library(RCurl)
-pkglist = 'https://git.com/nhchauvnu/rpkg/rpkg.csv'
+file = paste('wget -O -', 'https://raw.githubusercontent.com/nhchauvnu/rpkg/master/rpkg.csv')
+pkg = as.character(read.csv(pipe(file))$pkg)
+
 chkpkg = function(pkg) {
 	pkglist = installed.packages()[,1]
 	m = sum(pkglist == pkg)
@@ -13,20 +14,17 @@ printstat = function(pkg) {
 }
 
 printpkg = function() {
-	pkg = as.character(read.csv(pkglist)$pkg)
 	for (i in pkg)
 		printstat(i)
 }
 
 list0 = function() {
-	pkg = as.character(read.csv(pkglist)$pkg)
 	print("Not yet installed packages:")
 	for (i in pkg)
 		if (!chkpkg(i)) print(i)
 }
 
 list1 = function() {
-	pkg = as.character(read.csv(pkglist)$pkg)
 	print("Not yet installed packages:")
 	for (i in pkg)
 		if (chkpkg(i)) print(i)
@@ -41,7 +39,6 @@ inspkg = function(pkg) {
 }
 
 insmypkg = function() {
-	pkg = as.character(read.csv(pkglist)$pkg)
 	for (i in pkg)
 		if (!chkpkg(i)) {
 			print(paste(" >>> Installing ",i))
