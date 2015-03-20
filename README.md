@@ -4,10 +4,14 @@ of my frequently used packages.
 
 To use the package, run the following commands in R:
 ```
-install.packages('RCurl')
+library('RCurl')
 source('https://github.com/nhchauvnu/rpkg/inspkg.r')
 ```
-to check installed packages:
+If RCurl is not installed, install it by:
+```
+install.packages('RCurl')
+```
+To check installed packages:
 ```
 list1()
 ```
