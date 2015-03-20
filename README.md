@@ -11,8 +11,8 @@ If RCurl is not installed, install it by:
 ```
 install.packages('RCurl')
 
-### How to use the script
 ```
+### How to use the script
 To check installed packages:
 ```
 list1()
