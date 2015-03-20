@@ -25,7 +25,7 @@ list0 = function() {
 }
 
 list1 = function() {
-	print("Not yet installed packages:")
+	print("Installed packages:")
 	for (i in pkg)
 		if (chkpkg(i)) print(i)
 }
