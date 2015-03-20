@@ -2,8 +2,9 @@
 This R script and rpkg.csv are used for quick installation
 of my frequently used packages.
 
-To use the package, run the following command in R:
+To use the package, run the following commands in R:
 ```
+install.packages('RCurl')
 source('https://github.com/nhchauvnu/rpkg/inspkg.r')
 ```
 to check installed packages:

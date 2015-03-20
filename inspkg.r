@@ -1,4 +1,5 @@
-pkglist = 'http://git.com/nhchauvnu/rpkg/rpkg.csv'
+library(RCurl)
+pkglist = 'https://git.com/nhchauvnu/rpkg/rpkg.csv'
 chkpkg = function(pkg) {
 	pkglist = installed.packages()[,1]
 	m = sum(pkglist == pkg)
