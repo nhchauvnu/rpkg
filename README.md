@@ -25,7 +25,7 @@ inspkg('packagename')
 ```
 To check packages status:
 ```
-prinpkg()
+printpkg()
 ```
 To check status of a single package:
 ```
