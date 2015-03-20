@@ -1,15 +1,17 @@
-# rpkg
+### rpkg
 This R script and rpkg.csv are used for quick installation
 of my frequently used packages.
 
 To use the package, run the following commands in R:
 ```
 library('RCurl')
-source('https://github.com/nhchauvnu/rpkg/inspkg.r')
+source('https://raw.githubusercontent.com/nhchauvnu/rpkg/master/inspkg.r')
 ```
 If RCurl is not installed, install it by:
 ```
 install.packages('RCurl')
+
+### How to use the script
 ```
 To check installed packages:
 ```
