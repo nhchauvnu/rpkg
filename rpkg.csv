@@ -1,4 +1,3 @@
-"pkg"
 arules
 arulesSequences
 arulesViz
@@ -98,11 +97,13 @@ outliers
 party
 pca3d
 pixmap
+"pkg"
 plot3D
 plot3Drgl
 plotGoogleMaps
 plotKML
 proj4
+psych
 pwr
 queueing
 r2lh
