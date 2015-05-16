@@ -49,6 +49,7 @@ ggsubplot
 GISTools
 gplots
 gputools
+gridExtra
 gtools
 HMM
 HSAUR2
@@ -84,6 +85,7 @@ mcmcplots
 microbenchmark
 mlr
 MTS
+ncdf
 networkD3
 neural
 neuralnet
