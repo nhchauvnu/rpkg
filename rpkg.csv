@@ -1,3 +1,4 @@
+"pkg"
 arules
 arulesSequences
 arulesViz
@@ -101,7 +102,6 @@ outliers
 party
 pca3d
 pixmap
-"pkg"
 plot3D
 plot3Drgl
 plotGoogleMaps
