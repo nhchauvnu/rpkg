@@ -143,6 +143,7 @@ RMongo
 RMySQL
 RODBC
 rpart
+rpart.plot
 RPostgreSQL
 rpud
 rPython
