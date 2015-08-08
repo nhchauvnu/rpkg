@@ -28,6 +28,7 @@ DMwR
 doParallel
 downloader
 dplyr
+DT
 dtw
 ElemStatLearn
 Epi
@@ -54,6 +55,7 @@ GeoXp
 ggmap
 ggplot2
 ggsubplot
+ggvis
 GISTools
 gplots
 gputools
@@ -61,6 +63,7 @@ gridExtra
 gtools
 HMM
 HSAUR2
+htmlwidgets
 httpRequest
 httpuv
 httr
@@ -74,6 +77,7 @@ knnGarden
 landsat
 lattice
 latticeExtra
+leaflet
 lda
 lint
 lintr
@@ -109,6 +113,7 @@ OpenStreetMap
 openxlsx
 osmar
 outliers
+packrat
 party
 pca3d
 pixmap
@@ -131,6 +136,7 @@ rattle
 Rcmdr
 RCurl
 R.devices
+readxl
 reshape2
 Rfacebook
 RGA
@@ -155,6 +161,7 @@ shape
 shapefiles
 shapes
 shiny
+shinydashboard
 sp
 spatial
 spatial.tools
@@ -165,6 +172,7 @@ spdep
 sqldf
 sqlutils
 swirl
+testthat
 tidyr
 tiff
 translate
