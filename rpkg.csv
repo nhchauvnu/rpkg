@@ -30,6 +30,7 @@ downloader
 dplyr
 DT
 dtw
+elasticnet
 ElemStatLearn
 Epi
 epicalc
@@ -43,7 +44,9 @@ fastR
 ff
 ffbase
 fma
+forecast
 fpc
+fpp
 gbm
 gcookbook
 gdalUtils
