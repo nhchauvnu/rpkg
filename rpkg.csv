@@ -133,6 +133,7 @@ plot3Drgl
 plotGoogleMaps
 plotKML
 pls
+pROC
 proj4
 pscl
 psych
