@@ -79,6 +79,7 @@ ISLR
 ISwR
 kernlab
 klaR
+KMsurv
 knitr
 knncat
 knnGarden
@@ -117,6 +118,7 @@ NeuralNetTools
 ngram
 ngramr
 OIdata
+OIsurv
 openintro
 OpenMPController
 OpenStreetMap
