@@ -5,6 +5,7 @@ arulesSequences
 arulesViz
 aster
 aster2
+audit
 bdvis
 bigdata
 bigpca
@@ -107,6 +108,7 @@ MASS
 mboost
 mcmc
 mcmcplots
+mice
 microbenchmark
 mlr
 MTS
