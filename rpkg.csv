@@ -188,6 +188,7 @@ SpatialTools
 SpatPCA
 spatstat
 spdep
+squash
 sqldf
 sqlutils
 swirl
