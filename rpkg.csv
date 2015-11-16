@@ -159,6 +159,7 @@ Rcmdr
 RCurl
 R.devices
 readxl
+relaimpo
 reshape2
 Rfacebook
 RGA
@@ -172,6 +173,8 @@ rmarkdown
 RMongo
 RMySQL
 RODBC
+robust
+robustbase
 rpart
 rpart.plot
 RPostgreSQL
