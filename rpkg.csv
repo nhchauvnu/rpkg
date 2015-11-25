@@ -98,6 +98,7 @@ lda
 lint
 lintr
 lme4
+lpSolve
 lubridate
 mail
 mailR
