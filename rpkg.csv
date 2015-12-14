@@ -175,6 +175,7 @@ RGraphics
 rite
 rjson
 rmarkdown
+RMOA
 RMongo
 RMySQL
 RODBC
@@ -203,6 +204,7 @@ spdep
 squash
 sqldf
 sqlutils
+stream
 swirl
 testthat
 tidyr
