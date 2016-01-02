@@ -183,6 +183,7 @@ RMySQL
 RODBC
 robust
 robustbase
+rpanel
 rpart
 rpart.plot
 RPostgreSQL
