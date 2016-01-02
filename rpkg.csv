@@ -206,6 +206,7 @@ spdep
 squash
 sqldf
 sqlutils
+stpp
 stream
 swirl
 testthat
