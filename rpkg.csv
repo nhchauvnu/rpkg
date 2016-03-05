@@ -197,6 +197,8 @@ RPostgreSQL
 rpud
 rPython
 RSQLite
+rstan
+rstanarm
 sandwich
 scatterplot3d
 sciplot
@@ -205,6 +207,7 @@ shapefiles
 shapes
 shiny
 shinydashboard
+shinystan
 SnowballC
 som
 sp
