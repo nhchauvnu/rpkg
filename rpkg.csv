@@ -22,6 +22,7 @@ Cairo
 cairoDevice
 calibrate
 caret
+caretEnsemble
 CCA
 compositions
 corrplot
@@ -71,6 +72,7 @@ geoR
 geoRglm
 geotools
 GeoXp
+ggfortify
 ggmap
 ggplot2
 ggsubplot
