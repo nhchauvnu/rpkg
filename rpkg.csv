@@ -50,6 +50,7 @@ epiDisplay
 epinet
 epiR
 epitools
+ETLUtils
 expsmooth
 FactoMineR
 factoextra
@@ -186,6 +187,7 @@ rgl
 RGraphics
 rite
 rjson
+RJDBC
 rmarkdown
 RMOA
 RMongo
