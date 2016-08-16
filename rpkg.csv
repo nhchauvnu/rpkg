@@ -234,6 +234,7 @@ sqldf
 sqlutils
 stpp
 stream
+SuperLearner
 swirl
 testthat
 tidyr
