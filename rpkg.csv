@@ -92,6 +92,7 @@ httpuv
 httr
 igraph
 iplots
+ipred
 ISLR
 ISwR
 kernlab
@@ -206,6 +207,7 @@ rpart.plot
 RPostgreSQL
 rpud
 rPython
+RQGIS
 RSQLite
 rstan
 rstanarm
