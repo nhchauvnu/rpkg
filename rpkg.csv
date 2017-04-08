@@ -163,6 +163,7 @@ KFAS
 "pca3d"
 "pgirmess"
 "pgmm"
+phia
 "pixmap"
 "playwith"
 "plot3D"
@@ -232,6 +233,7 @@ KFAS
 "shiny"
 "shinydashboard"
 "shinystan"
+slickR
 "SnowballC"
 "som"
 "sp"
