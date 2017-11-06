@@ -1,3 +1,4 @@
+"pkg"
 "AER"
 AlgDesign
 "Amelia"
@@ -176,7 +177,6 @@ KFAS
 "pgmm"
 phia
 "pixmap"
-"pkg"
 "playwith"
 "plot3D"
 "plot3Drgl"
@@ -287,6 +287,6 @@ tables
 "xlsx"
 "XML"
 "XML2R"
-Xnomial
+XNomial
 "xtable"
 "zoom"
