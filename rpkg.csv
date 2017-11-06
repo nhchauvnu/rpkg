@@ -1,4 +1,5 @@
 "AER"
+AlgDesign
 "Amelia"
 "aod"
 "arules"
@@ -16,6 +17,7 @@
 "BMA"
 "brms"
 BSDA
+BsMD
 "C50"
 "ca"
 "Cairo"
@@ -34,6 +36,7 @@ BSDA
 "crayon"
 "d3Network"
 "DAAG"
+daewr
 "darch"
 "dashboard"
 "deepnet"
@@ -42,6 +45,7 @@ BSDA
 "diagram"
 dlm
 "DMwR"
+DoE.base
 "doParallel"
 "downloader"
 "dplyr"
@@ -70,6 +74,7 @@ FKF
 "forecast"
 "fpc"
 "fpp"
+FrF2
 "gbm"
 "gcookbook"
 "gdalUtils"
