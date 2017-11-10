@@ -190,6 +190,7 @@ phia
 "psych"
 "pwr"
 "quantregForest"
+queuecomputer
 "queueing"
 "R2jags"
 "r2lh"
@@ -246,6 +247,7 @@ RVAideMemoire
 "shiny"
 "shinydashboard"
 "shinystan"
+simmer
 slickR
 "SnowballC"
 "som"
